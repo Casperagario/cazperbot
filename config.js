@@ -56,7 +56,7 @@ global.socket = {
 
 global.useMulti = false
 
-global.media = 'https://telegra.ph/file/df447196025b29017e1fa.jpg'
+global.media = 'https://telegra.ph/file/596040e02b98113f95435.jpg'
 
 // Sticker WM
 global.packname = 'CazperBotz'
